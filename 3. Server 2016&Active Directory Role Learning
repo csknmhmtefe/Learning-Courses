@@ -1,4 +1,4 @@
-Im bought a course from udemy about Windows Server&Active Directory Role and Features.
+I bought a course from udemy about Windows Server&Active Directory Role and Features.
 In this course, i am created a Domain Controller on a Virtual Machine who haved windows server 2016.
 And after that im setup a DNS server in same machine. Set up a DHCP Server too. And setup another
 virtual machine and instal windows server this machine too. And make it a File server my second machine.
