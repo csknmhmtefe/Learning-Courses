@@ -2,5 +2,5 @@ I bought a course from udemy about Windows Server&Active Directory Role and Feat
 In this course, i created a Domain Controller on a Virtual Machine who had windows server 2016.
 And after that i set up a DNS server in same machine. Set up a DHCP Server too. And set up another
 virtual machine and install windows server this machine too. And make it a File server my second machine.
-And i am setup Printer Server on my Domain Controller machine and learn the features about;
+And i set up Printer Server on my Domain Controller machine and learn the features about;
 Group Policy Management, DNS Server, DHCP Server, File Server, Printer Server Active Directory and more..
